@@ -6,52 +6,29 @@ collections:
     permalink: '/posts/:title/'
 palette: yellow
 header:
-  title: Fjord
-  tagline: Minimal and clean blog theme
-  logo_img: images/logo.svg
-  logo_img_alt: Fjord Logo
-  background_img: images/header-bg.jpg
+  title: Wohnzimmer e.V.
+  tagline: Wohnzimmer e.V. Münster
+  logo_img: images/wohnzimmer_logo.png
+  logo_img_alt: Logo
+  background_img: images/room-jockel.jpg
   has_nav: true
   nav_links:
-    - label: Home
+    - label: Startseite
       url: /
       style: link
-    - label: About
+    - label: Fotos
       url: /about
       style: link
-    - label: Style Guide
+    - label: Vereinsmeierei
       url: /style-guide
-      style: link
-    - label: Contact
-      url: /contact
       style: link
   has_social: true
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: icon
-      icon_class: twitter
-      new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/'
-      style: icon
-      icon_class: instagram
-      new_window: true
-    - label: GitHub
-      url: 'https://github.com/'
-      style: icon
-      icon_class: github
-      new_window: true
-    - label: LinkedIn
-      url: 'https://www.linkedin.com/'
-      style: icon
-      icon_class: linkedin
-      new_window: true
-    - label: DEV
-      url: 'https://dev.to/'
-      style: icon
-      icon_class: dev
-      new_window: true
+    - label: Impressum
+      url: /impressum
+    - label: Datenschutz
+      url: /datenschutz
+
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
