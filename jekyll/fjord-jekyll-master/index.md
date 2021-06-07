@@ -1,9 +1,9 @@
 ---
 title: Home
 has_more_link: true
-more_link_text: Keep reading
+more_link_text: mehr lesen
 seo:
-  title: Stackbit Fjord Theme
+  title: Wohnzimmer e.V. Homepage
   description: The preview of the Fjord theme
   extra:
     - name: 'og:type'

@@ -1,10 +1,28 @@
-title: Stackbit Fjord Theme
-baseurl: /
+title: Wohnzimmer e.V. Münster
+baseurl: ""
 permalink: '/:title/'
 collections:
   posts:
     permalink: '/posts/:title/'
 palette: yellow
+galleries:
+ -
+  path: galerien/einladungen
+  name: fotos-lounge-einladungen
+ -
+  path: galerien/dpa-fotos
+  name: fotos-fotosession
+ -
+  path: galerien/telespiele-lounge
+  name: fotos-telespiele-lounge
+ -
+  path: galerien/kicker-lounge
+  name: fotos-kicker-lounge
+ -
+  path: galerien/hoerspiel-lounge
+  name: fotos-hoerspiel-lounge
+
+
 header:
   title: Wohnzimmer e.V.
   tagline: Wohnzimmer e.V. Münster
@@ -17,10 +35,10 @@ header:
       url: /
       style: link
     - label: Fotos
-      url: /about
+      url: /fotos
       style: link
     - label: Vereinsmeierei
-      url: /style-guide
+      url: /vereinsmeierei
       style: link
   has_social: true
   social_links:
@@ -42,6 +60,7 @@ sass:
   precision: 10
 plugins:
   - jekyll-menus
+  - jekyll-pig
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -54,3 +73,5 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+  - galerien
+  - jekyll-pig-master
