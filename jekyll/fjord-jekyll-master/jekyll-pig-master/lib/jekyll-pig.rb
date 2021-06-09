@@ -35,10 +35,12 @@ module JekyllPig
             "permalink: /assets/html/#{gallery_name}/#{name}.html\n"                                                                                        \
             "exclude: true\n"                                                                                                                               \
             "---\n"                                                                                                                                         \
-            "<div><a href=\"#{prev_url}\" style=\"display:inline;\">vorheriges</a>" \
+            "<div style=\"margin-bottom:15px\">" \
+            "<a href=\"#{prev_url}\" style=\"display:block;float:left\">vorheriges</a>" \
+            "<a href=\"#{next_url}\" style=\"display:block;float:right\">nächstes</a>" \
             "<center><a href=\"/posts/#{gallery_name}\">Galerie</a></center>" \
-            "<a href=\"#{next_url}\" style=\"display:inline; float:right\">nächstes</a></div>\n" \
-            "<img src=\"{{site.baseurl}}/assets/img/#{gallery_name}/1024/#{name}\"/>\n"
+            "</div>\n" \
+            "<img src=\"{{site.baseurl}}/assets/img/#{gallery_name}/1024/#{name}\" />\n"
         end
 
         def gallery_html(id, image_data)
