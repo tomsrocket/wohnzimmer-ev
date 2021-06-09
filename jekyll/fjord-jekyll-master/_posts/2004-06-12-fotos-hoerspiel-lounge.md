@@ -1,13 +1,11 @@
 ---
 title: Hörspiel-Lounge
 subtitle: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
+  Unser Alternativprogramm zum Hafenfest: Die Hörspiel-Chillout-Lounge
 excerpt: >-
-  The way I spend time out in nature can affect how much my physical and mental
-  health will recharge and how I benefit from it.
-date: '2019-03-24'
-thumb_img_path: images/4.jpg
+  Unser Alternativprogramm zum Hafenfest: Die Hörspiel-Chillout-Lounge
+date: '2004-06-12'
+thumb_img_path: /assets/img/fotos-hoerspiel-lounge/1024/014_14.JPG
 thumb_img_alt: A man fishing in a lake
 seo:
   title: My Way to Relax in Nature and Stress Less

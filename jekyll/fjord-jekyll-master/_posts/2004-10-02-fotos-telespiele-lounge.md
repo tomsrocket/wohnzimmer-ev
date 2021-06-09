@@ -1,11 +1,12 @@
 ---
 title: Telespiele Lounge Fotogalerie
+subtitle: "Die Telespiele Lounge - Röhrenmonitore, alte Homecomputer, Spielkonsolen und natürlich: Joysticks"
 excerpt: >-
-  Auch bei der Telespiele Lounge wurden ein paar Fotos geschossen.
-date: '2019-04-09'
-thumb_img_path: images/1.jpg
-thumb_img_alt: A man standing on a rock cliff overlooking a river
-content_img_path: images/1.jpg
+  Die Telespiele Lounge - Röhrenmonitore, alte Homecomputer, Spielkonsolen und natürlich: Joysticks
+date: '2004-10-02'
+thumb_img_path: /assets/img/fotos-telespiele-lounge/1024/k1-tele3-800.jpg
+thumb_img_alt: Telespiele Lounge
+content_img_path: /assets/img/fotos-telespiele-lounge/1024/zock-ecke.JPG
 seo:
   title: Basic Rules For Walking In The Mountains
   description: >-

@@ -21,8 +21,12 @@ galleries:
  -
   path: galerien/hoerspiel-lounge
   name: fotos-hoerspiel-lounge
-
-
+ -
+  path: galerien/Wohnzimmergarten06
+  name: fotos-wohnzimmergarten-2006
+ -
+  path: galerien/Wohnzimmergarten07
+  name: fotos-wohnzimmergarten-2007
 header:
   title: Wohnzimmer e.V.
   tagline: Wohnzimmer e.V. Münster
@@ -33,6 +37,9 @@ header:
   nav_links:
     - label: Startseite
       url: /
+      style: link
+    - label: News
+      url: /news
       style: link
     - label: Fotos
       url: /fotos
@@ -49,6 +56,9 @@ header:
 
 footer:
   content: >-
+    &copy; Wohnzimmer e.V.
+
+  content_old: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
     href="https://www.stackbit.com/?utm_source=deployed-footer" target="_blank"
     rel="noopener">Stackbit</a>. Create yours <a
