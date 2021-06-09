@@ -30,24 +30,6 @@ seo:
       relativeUrl: true
 layout: page
 ---
-<style>
-.post-thumbnail {
-    border: 0;
-    display: block;
-    margin: 0 20px 0.5em 0;
-    max-width: 250px;
-    float: left;
-}
-.p-gallery .title {
-  font-size: 1.55556rem;
-  font-weight: bold;
-  line-height: 1.2;
-  text-rendering: optimizeLegibility;
-  display: block;
-  margin-bottom: 10px;
-}
-
-</style>
 
 {% for post in site.categories.Fotos %}
   <div class="p-gallery">
