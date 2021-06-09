@@ -1,0 +1,22 @@
+
+/**
+ * News Seiten
+ */
+
+.p-gallery .post-thumbnail {
+  border: 0;
+  display: block;
+  margin: 0 20px 0.5em 0;
+  float: left;
+  @media only screen and (min-width: 801px) {
+    max-width: 250px;
+  }
+}
+.p-gallery .title {
+  font-size: 1.55556rem;
+  font-weight: bold;
+  line-height: 1.2;
+  text-rendering: optimizeLegibility;
+  display: block;
+  margin-bottom: 10px;
+}
