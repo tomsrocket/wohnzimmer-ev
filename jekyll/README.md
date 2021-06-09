@@ -1,11 +1,29 @@
-# Infos
 
-1. Install Jekyll on Ubuntu: https://jekyllrb.com/docs/installation/ubuntu/
-2. Then create your blog with the following commands: https://jekyllrb.com/docs/
-3. For image galleries do this: https://github.com/clnhlzmn/jekyll-pig
-4. This is a nice theme: https://github.com/stackbit-themes/fjord-jekyll
 
-# Konventionen für Bildergalerien
+## Wie schreibt man Texte?
+
+Einfach den entsprechenden Post anlegen oder einen bestehenden bearbeiten im Folder _posts.
+Im Hauptverzeichnis liegen außerdem die Haupt-Seiten (impressum.md, datenschutz.md), etc, die kann man ebenfalls bearbeiten, die funktionieren genauso.
+
+Am Anfang jedes Artikels ist ein Bereich mit "Variablen" auch "Frontmatter" genannt. Da kann man einige Dinge festlegen:
+* **title:** Überschrift des Artkels
+* **subtitle:** Unterüberschrift
+* **excerpt:** Wird auf der Übersichtsseite als Anlesetext angezeigt
+* **date:** Artikeldatum
+* **thumb_img_path:** Vorschaubild für die ÜPbersichtsseite
+* **thumb_img_alt:** Alternativtext des Vorschaubilds (=Beschreibung für Blinde und Suchmaschinen)
+* **content_img_path:** Bild, das auf der Artikelansicht im linken Bereich im Hintergrund angezeigt werden soll
+* **layout:** Sollte erstmal immer "post" sein.
+* **categories:** Wo soll  der Artikel erscheinen:
+   * News
+   * Fotos
+
+Man kann einzelne Variablen auch weglassen, dann wird das default genommen, oder leer gelassen.
+
+Der Artikel Text selbst kann mit "Markdown" formatiert werden. Hier steht, was man bei Markdown alles verwenden kann:
+* https://raw.githubusercontent.com/stackbit-themes/fjord-jekyll/master/style-guide.md
+
+## Konventionen für Bildergalerien
 
 Bildergalerien gehen so:
 * Fotos müssen immer
@@ -27,18 +45,32 @@ Bildergalerien gehen so:
   * Alles wird automatisch unter "assets", "includes" und "data" angelegt
 
 
-# Styles für Texte
+# How to develop
 
-Hier steht was alles geht: https://raw.githubusercontent.com/stackbit-themes/fjord-jekyll/master/style-guide.md
+```bash
+  # Das ist das einfachste, aber der bemerkt nicht alle Änderungen
+  bundle exec jekyll serve
+```
 
+Alternative:
 
+```bash
+  # im ersten Terminal
+  bundle exec jekyll build --watch
 
-# How to start
+  # im zweiten Terminal
+  cd _site
+  python3 -m http.server 8000
+```
 
-    bundle exec jekyll serve
+## Infos zur initialen Installation
 
+1. Install Jekyll on Ubuntu: https://jekyllrb.com/docs/installation/ubuntu/
+2. Then create your blog with the following commands: https://jekyllrb.com/docs/
+3. For image galleries do this: https://github.com/clnhlzmn/jekyll-pig
+4. This is a nice theme: https://github.com/stackbit-themes/fjord-jekyll
 
-# how to regenerate the galleries after change to "jekyll-pig" gallery thingy
+## How to regenerate the galleries after change to "jekyll-pig" gallery thingy
 
 ```bash
     # cleanup. make sure you have not saved anything else there:

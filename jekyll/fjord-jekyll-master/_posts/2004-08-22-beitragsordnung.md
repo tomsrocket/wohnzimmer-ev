@@ -1,7 +1,7 @@
 ---
 title: Beitragsordnung für Wohnzimmer e.V.
 excerpt: >-
-  Du wolltest schon immer mal wissen wie der Wohnzimmer e.V. funktioniert?
+  Kurzfassung: Mitglied werden kostet einmalig 1€. Weitere Details findest Du in diesem Artikel.
 date: '2007-08-15'
 thumb_img_path: /images/KH1015_Schreibmaschine.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
