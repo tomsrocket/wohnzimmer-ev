@@ -8,7 +8,7 @@ thumb_img_path: /assets/img/fotos-fotosession/1024/wohnzimmerlounge003.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 layout: post
-categories: News
+categories: Verein
 ---
 
 <p>Um ein weites Spektrum von Wohnkultur mit unseren Veranstaltungen abzudecken, gehen wir auf Tour und gastieren in den unterschiedlichsten Wohnzimmern.

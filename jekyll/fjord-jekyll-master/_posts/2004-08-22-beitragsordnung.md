@@ -7,7 +7,7 @@ thumb_img_path: /images/KH1015_Schreibmaschine.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
 content_img_path: images/8.jpg
 layout: post
-categories: News
+categories: Verein
 ---
 
 
