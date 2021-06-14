@@ -44,6 +44,9 @@ header:
     - label: Fotos
       url: /fotos
       style: link
+    - label: Über uns
+      url: /ueber-uns
+      style: link
     - label: Vereinsmeierei
       url: /vereinsmeierei
       style: link
