@@ -3,7 +3,7 @@ title: News aus dem Wohnzimmer
 subtitle: Ist was los, dann steht's in den Nachrichten
 img_path: images/room-roman.jpg
 seo:
-  title: Wohnzimmer e.V. Bildergalerien
+  title: Wohnzimmer e.V. News
   description: Fotogalerien, Fotosammlungen von unseren Wohnzimmer-Lounges und so weiter.
   extra:
     - name: 'og:type'
@@ -31,7 +31,13 @@ seo:
 layout: page
 ---
 
-{% for post in site.categories.News %}
+{% assign p1 = site.categories.News %}
+{% assign p2 = site.categories.Einladung %}
+
+{% assign all_posts = p1 | concat: p2 %}
+{% assign sorted_posts = all_posts | sort: 'date' | reverse %}
+
+{% for post in sorted_posts %}
   <div class="p-gallery">
         {% assign thumb_img_path_is_not_empty = post.thumb_img_path | is_not_empty %}
         {% if thumb_img_path_is_not_empty %}
@@ -43,7 +49,8 @@ layout: page
         <a class="title" href="{{ post.url }}">{{ post.title }}</a>
 
         <span>{{ post.date | date_to_string }}</span> -
-        {{ post.excerpt | post.subitle }}
+
+        {% if post.excerpt %}{{ post.excerpt }}{% else %}{{ post.subitle }}{% endif %}
 
   </div>
   <br clear="all" />

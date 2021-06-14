@@ -1,8 +1,8 @@
 ---
 title: Mitmachen beim Wohnzimmer e.V.
-subtitle: Komm zu uns. Wir sind lustig.
+subtitle: Wie kann man beim Wohnzimmer e.V. mitmachen?
 excerpt: >-
-  Du wolltest schon immer mal wissen wie der Wohnzimmer e.V. funktioniert?
+  Du findest die Idee gut und möchtest beim Wohnzimmer e.V. mitmachen?
 date: '2007-08-15'
 thumb_img_path: /assets/img/fotos-fotosession/1024/wohnzimmerlounge003.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
