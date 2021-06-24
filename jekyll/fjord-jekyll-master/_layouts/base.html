@@ -1,6 +1,6 @@
 <!doctype html>
 <html lang="en">
-    <head>    
+    <head>
 
         <title>{% assign title_is_not_empty = page.seo.title | is_not_empty %}{% if title_is_not_empty %}{{ page.seo.title }}{% else %}{{ page.title | append: ' | ' | append: site.title }}{% endif %}</title>
         <meta charset="utf-8">
@@ -33,13 +33,30 @@
         {% if favicon_is_not_empty %}
         <link rel="icon" href="{{ site.favicon | relative_url }}">
         {% endif %}
-        
+
     </head>
     <body class="palette-{{ site.palette }}">
-        
+
         {{ content }}
         <!-- Scripts -->
         <script src="{{ 'js/plugins.js' | relative_url }}"></script>
         <script src="{{ 'js/main.js' | relative_url }}"></script>
-    </body> 
+
+<!-- Fathom - simple website analytics - https://github.com/usefathom/fathom -->
+<script>
+  (function(f, a, t, h, o, m){
+    a[h]=a[h]||function(){
+      (a[h].q=a[h].q||[]).push(arguments)
+    };
+    o=f.createElement('script'),
+    m=f.getElementsByTagName('script')[0];
+    o.async=1; o.src=t; o.id='fathom-script';
+    m.parentNode.insertBefore(o,m)
+  })(document, window, '//tomo.input23.de/tracker.js', 'fathom');
+  fathom('set', 'siteId', 'AVDMA');
+  fathom('trackPageview');
+</script>
+<!-- / Fathom -->
+
+    </body>
 </html>
