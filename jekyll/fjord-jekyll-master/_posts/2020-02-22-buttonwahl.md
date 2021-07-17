@@ -5,7 +5,6 @@ excerpt: >-
 date: '2020-08-15'
 thumb_img_path: /images/ausweis_back.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-content_img_path: images/8.jpg
 layout: post
 categories: News
 ---
