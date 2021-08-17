@@ -15,9 +15,9 @@ categories: News
 Die WOGA ist eine Open-Air-Lounge mit Wohnzimmer-Flair im "schönsten Alternativ-Garten der Welt".
 
 ### Programm:
-* **Fr., 13.08.2021:** Ab 17 Uhr startet eine Jam-Session zum eingrooven, gefolgt von einer treibenden Percussion-Trommel-Performance der Band "Drums On Fire". Durch die Nacht begleitet uns Lounge-Musik von unseren DJs
+* **Fr., 13.08.2021:** Ab 17 Uhr startet eine Jam-Session zum eingrooven, gefolgt von einer treibenden Percussion-Trommel-Performance der Band "Drums On Fire".
 
-* **Sa., 14.08.2021:** Pünktlich ab 15 Uhr treten diverse Live-Bands auf: Leicht (Pop-Rock aus Köln), Lia mit der Gitarre (Singer-Songwriterin aus MS), Schluder Disco Explosion (Der Name ist Programm, MS) sowie Special Guests. Im Anschluss an des Live-Programm legen unsere DJs an den Plattentellern Garage- und Lounge-Musik auf.
+* **Sa., 14.08.2021:** Pünktlich ab 15 Uhr treten diverse Live-Bands auf: Leicht (Pop-Rock aus Köln), LIA (Singer-Songwriterin aus Köln), Schluder Disco Explosion (Der Name ist Programm, MS) sowie Special Guests.
 
 **Kostenlose Tickets unter: [https://pretix.eu/wohnzimmer-ev/woga21/](https://pretix.eu/wohnzimmer-ev/woga21/)**
 
@@ -28,7 +28,7 @@ Auf der Getränke-Karte stehen neben Bier, Wein und Softdrinks auch Cocktails, L
 
 Am Essensstand wird lecker gegrillt und es gibt frische Salate. Tagsüber wird die Kaffeetafel gedeckt mit Kuchen und Sahne.
 
-Weitere Attraktionen sind der Garten himself mit seinen zu entdeckenden Skulpturen, ein Tisch-Kicker und ein Makramee-Workshop. Die Kids können Stockbrot am Lagerfeuer machen und in einer Quiz-Ralley ihren Entdecker-Geist erproben.
+Weitere Attraktionen sind der Garten himself mit seinen zu entdeckenden Skulpturen, ein Tisch-Kicker und ein Makramee-Workshop. Die Kids können Stockbrot am Lagerfeuer machen und in einer Quiz-Ralley ihren Entdeckergeist erproben.
 
 Und hier noch das Kleingedruckte:<br />
 Die WOGA ist eine Privatveranstaltung des Wohnzimmer e.V. für Vereinsmitglieder (frei), Eintritt in den Verein vor Ort für 2€ möglich. Essen und Getränke werden zu fairen Preisen angeboten.
@@ -43,9 +43,7 @@ Fr., 13.08. ab 17:00 Uhr<br />
 Sa., 14.08. ab 15:00 Uhr
 
 ### Anmeldung:
-Damit wir besser planen können, haben wir eine Registrierung über digtale Tickets eingerichtet (kostenlos). <br />
-**Wenn ihr kommen möchtet, registriert bitte ein Ticket auf der folgenden Seite:**<br />
-**[https://pretix.eu/wohnzimmer-ev/woga21/](https://pretix.eu/wohnzimmer-ev/woga21/)**
+Digitale Tickets unter [https://pretix.eu/wohnzimmer-ev/woga21/](https://pretix.eu/wohnzimmer-ev/woga21/)**
 
 Wie funktioniert die Ticket-Registrierung?<br />
 * Tragt [auf der Ticket-Webseite](https://pretix.eu/wohnzimmer-ev/woga21/) die Anzahl der gewünschten Tickets bei "Ticket für Freitag" und bei "Ticket für Samstag" ein und klickt auf "zum Warenkorb hinzufügen".
@@ -55,9 +53,15 @@ Wie funktioniert die Ticket-Registrierung?<br />
 Disclaimer: Die Ticket-Webseite "pretix.eu" ist ein vom Bundesministerium für Bildung und Forschung gefördertes Open-Source-Projekt zur Verwaltung von Veranstaltungsanmeldungen. Ihr müsst dort keine persönlichen Daten angeben außer eurer Emailadresse für die Ticket-Registrierung. Diese Emailadresse wird von pretix.eu zu technischen Zwecken verarbeitet und an den Wohnzimmer e.V. weitergegeben. Wir kontaktieren euch ein mal mit einer Erinnerungs-Email und ansonsten nur, falls es zu wichtigen Änderungen kommt (z.B. Corona- oder wetterbedingte Absage).
 
 ### WOGA Adresse:
-Im Garten an der Straße "Zum Guten Hirten", gegenüber von Hausnummer 90 <br />
+Im Garten an der Straße "Zum Guten Hirten", gegenüber von Hausnummer 88 <br />
 bzw. 200 m hinter der Kanalbrücke stadtauswärts (auf Luftballons etc. achten)
 
 ![](/images/woga-karte-2021.jpg)
 
 Koordinaten: 51.962490, 7.668167
+
+
+<hr />
+<br />
+<img src="/images/kulturamt-logo.png" width="400" />
+<br />Gefördert durch das Kulturamt der Stadt Münster
