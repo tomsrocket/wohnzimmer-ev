@@ -15,9 +15,9 @@ categories: News
 Die WOGA ist eine Open-Air-Lounge mit Wohnzimmer-Flair im "schönsten Alternativ-Garten der Welt".
 
 ### Programm:
-* **Fr., 13.08.2021:** Ab 17 Uhr startet eine Jam-Session zum eingrooven, gefolgt von einer treibenden Percussion-Trommel-Performance der Band "Drums On Fire".
+* **Fr., 13.08.2021:** Ab 17 Uhr startet eine Jam-Session zum eingrooven, gefolgt von einer treibenden Percussion-Trommel-Performance.
 
-* **Sa., 14.08.2021:** Pünktlich ab 15 Uhr treten diverse Live-Bands auf: Leicht (Pop-Rock aus Köln), LIA (Singer-Songwriterin aus Köln), Schluder Disco Explosion (Der Name ist Programm, MS) sowie Special Guests.
+* **Sa., 14.08.2021:** Pünktlich ab 15 Uhr treten diverse Live-Bands auf, u.a. Schluder Disco Explosion (Der Name ist Programm, MS) sowie Special Guests.
 
 **Kostenlose Tickets unter: [https://pretix.eu/wohnzimmer-ev/woga21/](https://pretix.eu/wohnzimmer-ev/woga21/)**
 
