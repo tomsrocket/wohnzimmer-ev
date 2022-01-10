@@ -3,7 +3,7 @@ title: Was ist die Wohnzimmerlounge?
 excerpt: >-
   Die Wohnzimmerlounge ist eine öffentliche Bar in privaten Wohnräumen. Wenn Du mehr erfahren willst, klicke auf diesen Artikel.
 date: '2007-08-15'
-thumb_img_path: /assets/img/fotos-fotosession/1024/wohnzimmerlounge002.jpg
+thumb_img_path: /assets/img/fotos-fotosession/250/wohnzimmerlounge002.jpg
 thumb_img_alt: Wohnzimmerlounge
 layout: post
 categories: Verein

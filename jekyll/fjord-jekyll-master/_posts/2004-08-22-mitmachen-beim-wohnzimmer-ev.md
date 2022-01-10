@@ -4,9 +4,9 @@ subtitle: Wie kann man beim Wohnzimmer e.V. mitmachen?
 excerpt: >-
   Du findest die Idee gut und möchtest beim Wohnzimmer e.V. mitmachen?
 date: '2007-08-15'
-thumb_img_path: /assets/img/fotos-fotosession/1024/wohnzimmerlounge003.jpg
+thumb_img_path: /assets/img/fotos-fotosession/250/wohnzimmerlounge003.jpg
 thumb_img_alt: A man looking at a beautiful lake and mountains landscape in Switzerland
-content_img_path: images/8.jpg
+content_img_path: /assets/img/fotos-fotosession/1024/wohnzimmerlounge003.jpg
 layout: post
 categories: Verein
 ---

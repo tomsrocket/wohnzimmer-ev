@@ -46,7 +46,6 @@ Bildergalerien gehen so:
 
 
 # How to develop
-
 ```bash
   # Das ist das einfachste, aber der bemerkt nicht alle Änderungen
   bundle exec jekyll serve
@@ -64,9 +63,10 @@ Alternative:
 ```
 
 ## Deploy
-
-bundle exec jekyll build
-rsync -avz --delete _site/ server.de:/path/to/webhost/public/dir
+```bash
+    bundle exec jekyll build
+    rsync -avz --delete _site/ server.de:/path/to/webhost/public/dir
+```
 
 ## Infos zur initialen Installation
 
