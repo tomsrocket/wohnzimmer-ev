@@ -63,6 +63,11 @@ Alternative:
   python3 -m http.server 8000
 ```
 
+## Deploy
+
+bundle exec jekyll build
+rsync -avz --delete _site/ server.de:/path/to/webhost/public/dir
+
 ## Infos zur initialen Installation
 
 1. Install Jekyll on Ubuntu: https://jekyllrb.com/docs/installation/ubuntu/
