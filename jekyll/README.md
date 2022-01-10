@@ -10,7 +10,7 @@ Am Anfang jedes Artikels ist ein Bereich mit "Variablen" auch "Frontmatter" gena
 * **subtitle:** Unterüberschrift
 * **excerpt:** Wird auf der Übersichtsseite als Anlesetext angezeigt
 * **date:** Artikeldatum
-* **thumb_img_path:** Vorschaubild für die ÜPbersichtsseite
+* **thumb_img_path:** Vorschaubild für die Übersichtsseite
 * **thumb_img_alt:** Alternativtext des Vorschaubilds (=Beschreibung für Blinde und Suchmaschinen)
 * **content_img_path:** Bild, das auf der Artikelansicht im linken Bereich im Hintergrund angezeigt werden soll
 * **layout:** Sollte erstmal immer "post" sein.
