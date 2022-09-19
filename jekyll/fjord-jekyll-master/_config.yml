@@ -10,6 +10,9 @@ galleries:
   path: galerien/einladungen
   name: fotos-lounge-einladungen
  -
+  path: galerien/ParkingDay-Hammerstr2022
+  name: fotos-parkingday-2022
+ -
   path: galerien/dpa-fotos
   name: fotos-fotosession
  -
