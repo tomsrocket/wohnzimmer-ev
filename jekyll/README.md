@@ -43,12 +43,17 @@ Bildergalerien gehen so:
     * Dort kann auch das Template angepasst werden für die Bildergalie-Übersicht und -Detail-Seite
   * Dann werden die Thumbnails erstellt, die Bildergalerieseiten und die Pages für die Bilder
   * Alles wird automatisch unter "assets", "includes" und "data" angelegt
-
+  * Wenn es einen Fehler gibt, dass eine HTML Datei mit dem Namen der Bildergalerie nicht unter "_includes" gefunden wird, dann in der Gemfile `gem "github-pages"...` auskommentieren, damit nur das *jekyll-pig* gem ausgeführt wird.
 
 # How to develop
 ```bash
   # Das ist das einfachste, aber der bemerkt nicht alle Änderungen
   bundle exec jekyll serve
+```
+
+```bash
+  # In case of error do this to get more information:
+  bundle exec jekyll serve --safe --trace --verbose
 ```
 
 Alternative:
