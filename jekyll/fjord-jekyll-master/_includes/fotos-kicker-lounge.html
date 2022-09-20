@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2004-02-29 01:05:42 +0100","filename":"IMG_1242.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:06:28 +0100","filename":"IMG_1244.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-02-29 01:07:07 +0100","filename":"IMG_1245.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:07:56 +0100","filename":"IMG_1246.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:08:32 +0100","filename":"IMG_1247.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:14:55 +0100","filename":"IMG_1248.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:16:08 +0100","filename":"IMG_1250.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-02-29 01:16:32 +0100","filename":"IMG_1251.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 01:17:11 +0100","filename":"IMG_1252.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-02-29 02:12:47 +0100","filename":"IMG_1254.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 02:13:22 +0100","filename":"IMG_1255.JPG","aspectRatio":0.75},{"datetime":"2004-02-29 02:13:30 +0100","filename":"IMG_1256.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-02-29 02:14:33 +0100","filename":"IMG_1257.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-02-29 02:14:42 +0100","filename":"IMG_1258.JPG","aspectRatio":1.3333333333333333}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-kicker-lounge/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-kicker-lounge/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2006-12-29 17:39:22 +0100","filename":"wohnzimmerlounge003.jpg","aspectRatio":1.5},{"datetime":"2006-12-29 17:43:04 +0100","filename":"wohnzimmerlounge0012.jpg","aspectRatio":1.5},{"datetime":"2006-12-29 17:49:18 +0100","filename":"wohnzimmerlounge0011.jpg","aspectRatio":1.5},{"datetime":"2006-12-29 17:52:08 +0100","filename":"wohnzimmerlounge002.jpg","aspectRatio":1.5},{"datetime":"2006-12-29 18:14:26 +0100","filename":"wohnzimmerlounge0010.jpg","aspectRatio":1.5},{"datetime":"2006-12-29 18:18:18 +0100","filename":"wohnzimmerlounge0013.jpg","aspectRatio":1.5}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-fotosession/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-fotosession/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2004-10-02 21:38:48 +0200","filename":"zock-ecke.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-10-03 00:17:21 +0200","filename":"shuffelpuck-mac.JPG","aspectRatio":1.3333333333333333},{"datetime":"2004-10-03 01:15:00 +0200","filename":"buster-max.jpg","aspectRatio":0.7504690431519699},{"datetime":"2014-01-12 16:05:08 +0100","filename":"k1-tele3-800.jpg","aspectRatio":1.5264663805436338},{"datetime":"2014-01-12 16:05:08 +0100","filename":"k1-tele4-800.jpg","aspectRatio":1.5242857142857142},{"datetime":"2014-01-12 16:05:08 +0100","filename":"k1-tele2-800.jpg","aspectRatio":1.522111269614836},{"datetime":"2014-01-12 16:05:08 +0100","filename":"k1-tele1-800.jpg","aspectRatio":1.522111269614836},{"datetime":"2021-06-08 18:43:02 +0200","filename":"5-Telespiele.jpg","aspectRatio":1.5197568389057752},{"datetime":"2021-06-08 18:43:02 +0200","filename":"11-Telespiele.jpg","aspectRatio":1.5174506828528074},{"datetime":"2021-06-08 18:43:02 +0200","filename":"8-Telespiele.jpg","aspectRatio":0.66},{"datetime":"2021-06-08 18:43:02 +0200","filename":"6-Telespiele.jpg","aspectRatio":1.5220700152207},{"datetime":"2021-06-08 18:43:02 +0200","filename":"7-Telespiele.jpg","aspectRatio":1.5105740181268883},{"datetime":"2021-06-08 18:43:02 +0200","filename":"10-Telespiele.jpg","aspectRatio":1.5267175572519085}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-telespiele-lounge/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-telespiele-lounge/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2004-02-05 19:51:40 +0100","filename":"Green Hell.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 19:51:48 +0100","filename":"Marionettentheater.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 19:52:22 +0100","filename":"Kaptn Olli.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 19:52:26 +0100","filename":"Seeraeuberbraut.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 19:53:55 +0100","filename":"Sonne Mond und Erde.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 19:54:13 +0100","filename":"Ballbreaker.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 19:54:20 +0100","filename":"He got balls.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:26:17 +0100","filename":"Futzi.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:26:38 +0100","filename":"Blauer Himmel.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:26:46 +0100","filename":"Gesundheitsbehoerde.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:28:55 +0100","filename":"Drei Wetter Taft.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:29:50 +0100","filename":"Rochade.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 21:30:13 +0100","filename":"Schachmeister.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 21:30:52 +0100","filename":"Waldwichte II.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 21:31:09 +0100","filename":"Waldwichte I.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 21:53:38 +0100","filename":"Was darfs denn sein.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 22:57:25 +0100","filename":"Illumination.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 22:57:39 +0100","filename":"Ppsssst brauchst Du.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 22:57:49 +0100","filename":"Juliane hat Zeit.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 23:02:19 +0100","filename":"Lagerfeuer.jpg","aspectRatio":1.0},{"datetime":"2004-02-05 23:02:45 +0100","filename":"Hhmmm.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 23:03:09 +0100","filename":"Die Sache ist die.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 23:03:24 +0100","filename":"Frauenzimmer.jpg","aspectRatio":0.75},{"datetime":"2004-02-05 23:14:43 +0100","filename":"Vier zeltet.jpg","aspectRatio":1.3333333333333333},{"datetime":"2004-02-05 23:15:07 +0100","filename":"Zeltinger.jpg","aspectRatio":0.75}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-wohnzimmergarten-2006/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-wohnzimmergarten-2006/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

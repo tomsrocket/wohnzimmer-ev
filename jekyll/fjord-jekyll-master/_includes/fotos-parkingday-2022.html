@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2022-09-16 15:09:38 +0200","filename":"Standpanorama.jpg","aspectRatio":1.7557522123893805},{"datetime":"2022-09-19 21:44:18 +0200","filename":"20220916_135048.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"20220916_142944.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"20220916_170306.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"20220916_173138.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"20220916_173148.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"Die-PACE-Flagge-weht-im-Wind.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"Jochen-erwartet-die-Gaeste.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"Kinderzimmer-auf-der-Strasse.jpg","aspectRatio":1.3331663326653307},{"datetime":"2022-09-19 21:44:18 +0200","filename":"Joern-Tom-Jochen-Foto-By-Matthias-Ahlke.png","aspectRatio":1.500497512437811},{"datetime":"2022-09-20 17:52:06 +0200","filename":"2815A313-B299-4683-B42E-3C934E8767BD.jpeg","aspectRatio":1.3333333333333333},{"datetime":"2022-09-20 17:52:06 +0200","filename":"5CA624E9-9880-444C-B398-1003C7D2FC80.jpeg","aspectRatio":1.3333333333333333},{"datetime":"2022-09-20 17:52:06 +0200","filename":"5CA624E9-9880-444C-B398-1003C7D2FC82.jpeg","aspectRatio":1.3333333333333333},{"datetime":"2022-09-20 17:52:06 +0200","filename":"5CA624E9-9880-444C-B398-1003C7D2FC83.jpeg","aspectRatio":1.3333333333333333},{"datetime":"2022-09-20 17:52:06 +0200","filename":"924C6611-3E1E-4DAC-8D28-866AEDAE2F4C.jpeg","aspectRatio":1.3333333333333333},{"datetime":"2022-09-20 17:52:06 +0200","filename":"9F99E227-ADA2-4BC3-B851-FC526405AC84.jpeg","aspectRatio":1.3333333333333333}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-parkingday-2022/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-parkingday-2022/' + filename + '.html';
+        }
+    }
+).enable();
+</script>

@@ -1,0 +1,17 @@
+<div id='some_id_pig'></div>
+<script src='{{site.baseurl}}/assets/js/pig.min.js'></script>
+<script>
+var some_id_pig = new Pig(
+    [{"datetime":"2014-01-12 16:04:59 +0100","filename":"001_1.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:00 +0100","filename":"004_4.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:00 +0100","filename":"006_6.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:00 +0100","filename":"003_3.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:00 +0100","filename":"002_2.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:00 +0100","filename":"007_7.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:01 +0100","filename":"008_8.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:01 +0100","filename":"012_12.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:01 +0100","filename":"009_9.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:01 +0100","filename":"010_10.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:01 +0100","filename":"014_14.JPG","aspectRatio":1.5},{"datetime":"2014-01-12 16:05:02 +0100","filename":"2.29.jpg","aspectRatio":1.528957528957529},{"datetime":"2014-01-12 16:05:02 +0100","filename":"2.32.jpg","aspectRatio":1.528957528957529},{"datetime":"2014-01-12 16:05:02 +0100","filename":"2.30.jpg","aspectRatio":1.528957528957529},{"datetime":"2014-01-12 16:05:03 +0100","filename":"2.33.jpg","aspectRatio":1.528957528957529},{"datetime":"2014-01-12 16:05:03 +0100","filename":"2.35.jpg","aspectRatio":1.528957528957529}],
+    {
+        containerId: 'some_id_pig',
+        classPrefix: 'some_id_pig',
+        urlForSize: function(filename, size) {
+            return '{{site.baseurl}}/assets/img/fotos-hoerspiel-lounge/' + size + '/' + filename;
+        },
+        onClickHandler: function(filename) {
+            window.location.href = '{{site.baseurl}}/assets/html/fotos-hoerspiel-lounge/' + filename + '.html';
+        }
+    }
+).enable();
+</script>
