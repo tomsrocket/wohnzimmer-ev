@@ -83,10 +83,14 @@ Alternative:
 ## How to regenerate the galleries after change to "jekyll-pig" gallery thingy
 
 ```bash
-    # cleanup. make sure you have not saved anything else there:
-    rm -rf assets/*
-    rm _includes/fotos-*.html
-    rm _data/fotos-*.json
+    # cleanup.
+    # make sure you have not saved anything else there:
+
+    rm -rf assets/html  # generated image galleries poto detail htmls
+    rm -rf assets/img   # generated image galleries pictures
+    rm -rf assets/js    # generated image gallery javascript
+    rm _includes/fotos-*.html # generated index pages
+    rm _data/fotos-*.json # gallery metadata
 
     bundle install # to install the gem again
     bundle exec jekyll build # generate gallery html

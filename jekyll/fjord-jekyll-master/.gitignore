@@ -3,3 +3,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+#jekyll-pig image galleries geneeated files
+_data
+assets/html
+assets/img
+assets/js
