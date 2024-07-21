@@ -20,7 +20,10 @@ Termine des Wohnzimmerlounge "EM-Studio '24":
     Mi. 19.06.24 ab 17.30 Uhr: Deutschland - Ungarn
     So. 23.06.24 ab 20 Uhr: Schweiz - Deutschland
 
-    (weitere Termine werden hier angekündigt)
+    Fr. 05.07.24 ab 17:30 Uhr: Spanien - Deutschland
+    Di., 09.07.24 ab 20:00 Uhr: Halbfinale: Spanien/Deutschland - Portugal/Frankreich
+    So., 14.07.24 ab 20:00 Uhr: Finale
+
 
 Ort:
 Jeweils in der Nieberdingstraße 11 - bei Kubeja klingeln!
