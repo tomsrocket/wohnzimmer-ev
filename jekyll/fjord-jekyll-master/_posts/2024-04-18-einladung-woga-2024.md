@@ -30,11 +30,9 @@ Die angekündigten Künstler Jack and Distortion müssen ihren Auftritt in diese
 
 ### Die Aftershow
 
-Nach den Bühnenauftritten schließt sich nahtlos die Aftershow mit einem **Live-Elektro-Gig an: "Mikrowelle" aus Dortmund** eröffnen den Nachtrave mit live Techno. Wenn gewünscht können Mikrowelle auch Ambient machen, aber nach vorne gehende Tanzmusik ist ihr Kerngeschäft. Ab dafür.
+Den Bühnenauftritten schließt sich nahtlos die Aftershow an mit einem **DJ-Set von Lukus von Mikrowelle** von 22-0 Uhr.
 
-Der Gig geht über in ein **DJ-Set von Lukus** von Mikrowelle.
-
-Durch die Nacht führt ein Nachwuchs-DJ aus Lindenberg-City Gronau. **DJ Jasper** bedient die DJ-Controller intuitiv und hat ein gutes Händchen für einen groovenden **Mix aus Techno-Klassikern und frischen Releases**.
+Danach führt ein Nachwuchs-DJ aus Lindenberg-City Gronau durch die Nacht: **DJ Jasper** bedient die DJ-Controller intuitiv und hat ein gutes Händchen für einen groovenden **Mix aus Techno-Klassikern und frischen Releases**.
 
 ## Was erwartet Dich außerdem?
 
@@ -105,9 +103,6 @@ Dein Wohnzimmer e.V.**
 
 **Remember When:**
 * [www.instagram.com/band.rememberwhen](https://www.instagram.com/band.rememberwhen/)
-
-**Mikrowelle:**
-* [https://mikrowelleishealthy.bandcamp.com/music](mikrowelleishealthy.bandcamp.com)
 
 **Platanenpower:** (Die Nachbarschaftsinitiative aus dem Hansaviertel für den Erhalt von Bäumen)
 * Homepage [www.platanenpower.de](https://www.platanenpower.de/)
