@@ -21,8 +21,6 @@ Dann haben wir die Newcomer Band **“Remember When”, eine junge Punk-Rock-Ban
 
 Die **Osnabrücker Postpunkband "Vergissmeinich"** hat ihr gleichnamiges Album 2023 veröffentlicht. Die Bandmitglieder sind allesamt ambitionierte MusikerInnen und in jeweils mehreren Bands und Musik-Projekten aktiv. Umso schöner ist es, dass sie alle gemeinsam die Zeit finden können, ihr erstes Gastspiel auf der WOGA zu geben. *“Sich selbst vergessen; loslassen, andere vergessen, sich aus dem Alltag und dem Trubel einer sich stets bewegenden Gesellschaft ausklinken, doch auch der Wunsch, zu bleiben; nicht vergessen zu werden – Vergiss mein ich.”* Wir freuen uns riesig auf ein unvergessliches Konzert im Garten.
 
-Die dritte Band steht stand heute noch nicht fest. Ihr könnt Euch also noch gerne bewerben. Bitte eine kurze Mail an kontakt@wohnzimmer-ev.de schreiben, merci.
-
 ### Die Aftershow
 Den Bühnenauftritten schließt sich nahtlos die Aftershow an mit einem **DJ-Set von Young Kid Kaddi** von 22-0 Uhr.
 
