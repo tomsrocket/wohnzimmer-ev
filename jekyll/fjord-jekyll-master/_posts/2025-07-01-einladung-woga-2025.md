@@ -3,6 +3,8 @@ title: Wohnzimmer-Gartenschau "WOGA" am Sa., 16.08.2025
 excerpt: Am Samstag, 16. August werden wie gewohnt um 15 Uhr die Pforten zum chilligen WOGA-Garten geöffnet.
 subtitle: 'WOGA 2025 mit füllendem Line-Up und Light-Show'
 date: '2025-07-21'
+thumb_img_path: /assets/img/fotos-lounge-einladungen/1024/Flyer_25_front_web_jpg.jpg
+thumb_img_alt: WOGA Einladung 2025
 content_img_path: /assets/img/fotos-wohnzimmergarten-2006/1024/He%20got%20balls.jpg
 layout: post
 categories: News
@@ -13,7 +15,9 @@ WOGA 2025 mit füllendem Line-Up und Light-Show
 
 **Am Samstag, 16. August werden wie gewohnt um 15 Uhr die Pforten zum chilligen WOGA-Garten geöffnet.**
 
-Auch in diesem Jahr eröffnet eine Newcomer Band das Bühnen-Programm. **“Remember When” ist eine junge Punk-Rock-Band aus Münster**, die zu rocken weiß. Das Trio spielt seit Herbst 2023 zusammen und hat bereits die ersten Songs aufgenommen, die sie uns live präsentieren wollen.
+In diesem Jahr **eröffnet die Band Elysian Park** das Bühnen-Programm mit ihrem genial coolen 80ties Synth Sound.
+
+Dann haben wir die Newcomer Band **“Remember When”, eine junge Punk-Rock-Band aus Münster**, die zu rocken weiß. Das Trio spielt seit Herbst 2023 zusammen und hat bereits die ersten Songs aufgenommen, die sie uns live präsentieren wollen.
 
 Die **Osnabrücker Postpunkband "Vergissmeinich"** hat ihr gleichnamiges Album 2023 veröffentlicht. Die Bandmitglieder sind allesamt ambitionierte MusikerInnen und in jeweils mehreren Bands und Musik-Projekten aktiv. Umso schöner ist es, dass sie alle gemeinsam die Zeit finden können, ihr erstes Gastspiel auf der WOGA zu geben. *“Sich selbst vergessen; loslassen, andere vergessen, sich aus dem Alltag und dem Trubel einer sich stets bewegenden Gesellschaft ausklinken, doch auch der Wunsch, zu bleiben; nicht vergessen zu werden – Vergiss mein ich.”* Wir freuen uns riesig auf ein unvergessliches Konzert im Garten.
 
@@ -36,3 +40,14 @@ Bei so viel Völlerei hilft Gartensport: Ob **Kicker oder Dart**, hier kriegt je
 Wenn es dunkel wird, knipsen wir die Lightshow an und wärmen uns am Laserfeuer. 
 
 Der Eintritt zur Woga ist frei (für Vereinsmitglieder), ein Eintritt in den Verein kann vor Ort für 2 € erfolgen.
+
+
+### WOGA Einladungsflyer
+
+Vorderseite:
+![](/assets/img/fotos-lounge-einladungen/1024/Flyer_25_front_web_jpg.jpg)
+
+Rückseite:
+![](/assets/img/fotos-lounge-einladungen/1024/Flyer_25_back_web_jpg.jpg)
+
+
